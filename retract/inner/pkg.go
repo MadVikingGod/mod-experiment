@@ -1,4 +1,4 @@
-package retract
+package inner
 
 import "fmt"
 

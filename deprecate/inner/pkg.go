@@ -1,4 +1,4 @@
-package deprecate
+package inner
 
 import "fmt"
 
