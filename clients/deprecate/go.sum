@@ -1,2 +1,4 @@
-github.com/madvikinggod/mod-experiment/deprecate v0.1.0 h1:ZFrZlYEt6IShmM8gF/gLWEyyOL3Tt3cd9V2QUDPJ0os=
-github.com/madvikinggod/mod-experiment/deprecate v0.1.0/go.mod h1:ePqauyTOgpl4dElpG7xAFfQXbQINbjGHIf53OtqfEKM=
+github.com/madvikinggod/mod-experiment v0.2.0 h1:UE4K/LCfgMadD6QMaQCgcmUtxX65eKZesLgKRVzASqM=
+github.com/madvikinggod/mod-experiment v0.2.0/go.mod h1:q3mvgcDoh9pAphp5yCS8Y2VIYi/uiTjUvSltYb6ylHE=
+github.com/madvikinggod/mod-experiment/deprecate v0.3.3 h1:chPkSrZk2M2NEEpjnjjfaNKaiwOCXVgEs0n4wSJ8L6Q=
+github.com/madvikinggod/mod-experiment/deprecate v0.3.3/go.mod h1:hGjk4sYdUhAX1SKcJDw5gE9NXns7dMFXdGsBL5pqASg=

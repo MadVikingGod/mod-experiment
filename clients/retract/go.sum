@@ -1,2 +1,4 @@
-github.com/madvikinggod/mod-experiment/retract v0.1.0 h1:AYPgCkjOKtmvER4Ow18obxhocO3+o4puTuMuRDyY4RU=
-github.com/madvikinggod/mod-experiment/retract v0.1.0/go.mod h1:8w+Ur6KJ2jSdl9wRiC/gFschzSm09gfHc+6XW/XDcz8=
+github.com/madvikinggod/mod-experiment v0.2.0 h1:UE4K/LCfgMadD6QMaQCgcmUtxX65eKZesLgKRVzASqM=
+github.com/madvikinggod/mod-experiment v0.2.0/go.mod h1:q3mvgcDoh9pAphp5yCS8Y2VIYi/uiTjUvSltYb6ylHE=
+github.com/madvikinggod/mod-experiment/retract v0.3.0 h1:cDAbjF/DUb0FQLaFmF5vLE0fzLPIChk9Tsv805zYtQE=
+github.com/madvikinggod/mod-experiment/retract v0.3.0/go.mod h1:kM0sAKBS9JJicTYoBqHtcg948aXJ7YUqZ84Kh5YjlEE=

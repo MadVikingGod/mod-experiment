@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/madvikinggod/mod-experiment/deprecate"
+	"github.com/madvikinggod/mod-experiment/mod-dep"
 )
 
 func main() {
