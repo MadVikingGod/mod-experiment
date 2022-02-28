@@ -6,6 +6,6 @@ import (
 
 type Stuff struct{}
 
-func (Stuff) Blarg() {
+func (Stuff) MoreStuff() {
 	fmt.Println("Blarg")
 }
