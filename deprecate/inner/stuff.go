@@ -1,3 +1,4 @@
+// Deprecated: This package is deprecated to test builds with deprecated packages
 package inner
 
 import "fmt"

@@ -1,3 +1,4 @@
+// Deprecated: Used to test deprecation of a module
 module github.com/madvikinggod/mod-experiment/mod-dep
 
 go 1.17
