@@ -1,0 +1,4 @@
+github.com/madvikinggod/mod-experiment v0.2.0 h1:UE4K/LCfgMadD6QMaQCgcmUtxX65eKZesLgKRVzASqM=
+github.com/madvikinggod/mod-experiment v0.2.0/go.mod h1:q3mvgcDoh9pAphp5yCS8Y2VIYi/uiTjUvSltYb6ylHE=
+github.com/madvikinggod/mod-experiment/mod-dep v0.4.0 h1:TH5QLUoXIsvRfhvJ6kgGcQL/Vt4AOSbBexwBClUJGOY=
+github.com/madvikinggod/mod-experiment/mod-dep v0.4.0/go.mod h1:tW0rsqF0lW6SA4NU3kQ5/QwzBE2JbovTBWhXXLFE3yc=
