@@ -10,5 +10,5 @@ type Stuff struct{}
 
 func (Stuff) Blarg() {
 	fmt.Println("Blarg")
-	fmt.Println(inner.A{})
+	fmt.Println(inner.Stuff{}.Blarg())
 }
