@@ -2,12 +2,13 @@ package deprecate
 
 import (
 	"fmt"
-	"github.com/madvikinggod/mod-experiment/internal"
+
+	"github.com/madvikinggod/mod-experiment/deprecate/inner"
 )
 
-type Stuff struct {}
+type Stuff struct{}
 
 func (Stuff) Blarg() {
 	fmt.Println("Blarg")
-	fmt.Println(internal.A{})
+	fmt.Println(inner.A{})
 }
